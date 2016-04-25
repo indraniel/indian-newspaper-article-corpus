@@ -1,0 +1,8 @@
+{
+    "author": [], 
+    "text": "Researchers in Taiwan have developed a next generation smartphone-based 3D printer that may cost just over $100. The printer employs a photopolymer that uses visible light emitted from a smartphone to cure the resin instead of the traditional method of using ultraviolet (UV) light or lasers.\n\nThe 3D printer was built in the lab of Jeng Ywam-Jeng, professor of mechanical engineering at National Taiwan University of Science and Technology. The machine starts by placing a coated vat of the speciality resin on top of a smartphone, which cures the resin onto a metal print-bed as the photopolymer material is released.\n\nThe machine uses a z-axis platform to shape the design, and the phone to cure the material as it builds the object in layers, \u2018Digital Trends\u2019 reported.\n\n\u201cWe\u2019ve tried to 3D-print a hollow ball and achieved layer thicknesses of about 100 microns. And there\u2019s no need to enclose the printer in a dark box; just to shut the lights off in part of a room,\u201d said Prof. Jeng. An early version of the technology required the use of a computer to control the printer motor as it builds.\n\nNow, the team has developed an app that synchronises the smartphone screen with the motor.\n\nThis custom app makes it easy to load and print 3D models because the printer and the print management tool are housed within the same device.\n\nScanning feature\n\nProf. Jeng hopes to add a scanning feature in the future that would allow users to scan a 3D object by inserting the phone into the 3D printer and printing up the model with minimal effort. \u2014 PTI", 
+    "section": "national", 
+    "title": "Now, a 3D printer powered by phones", 
+    "subsection": "general", 
+    "date": "2016-01-01"
+}

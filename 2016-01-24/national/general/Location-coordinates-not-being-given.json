@@ -1,0 +1,10 @@
+{
+    "author": [
+        "Sharad Vyas"
+    ], 
+    "text": "A confidential report of the Maharashtra police has said the Lawful Interception System (LIS) a frequently used uniform platform for cops and agencies to track and gather cell and internet records, is hampered not only because service providers have not rolled out a Location Based System (LBS) for the last two years, but also by intrusion from private staff.\n\nSimply put, the LBS identifies mobile call locations, and gives the exact longitude and latitude coordinates as part of Call Data Records (CDR). It also provides coordinates of the cell sites.\n\nIt is this part that GSM operators have been resisting, and have been pushing for the LBS clause to be removed from the Department of Telecommunication (DoT) licence norms.\n\n\u201cAt present,\u201d the report reads, \u201ceach agency uses the LIS as per the availability of infrastructure with them. But as all agencies are not able to get the full data as required from the ISPs and TSPs, their intelligence collection gets hampered.\u201d\n\nThe report highlights the fact that while Cell Global Identity (CGI) must be provided in a 15-digit format, several TSPs provide between 5 and 10 digits, thus revealing only the cell ID in the CDR but not the location coordinates, making it difficult for the police to zoom in on the exact area.\n\nInterception requests\n\nSenior police officials said the CMS had planned to overcome these issues by integrating data and records from TSPs, and redistributing it to the agencies through a Regional Monitoring System (RMS). All interception requests are automatically diverted through CMS. Even records are exchanged between service providers and agencies through CMS and not manually.\n\n\u201cBut CMS capabilities are mainly limited to its presently proposed plan. For example, they are available only at State headquarters, not at district and unit levels,\u201d said a senior police official.", 
+    "section": "national", 
+    "title": "Location coordinates not being given", 
+    "subsection": "general", 
+    "date": "2016-01-24"
+}

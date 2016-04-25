@@ -1,0 +1,8 @@
+{
+    "author": [], 
+    "text": "A team of US researchers has built an energy-friendly chip that can perform powerful artificial intelligence (AI) tasks, enabling future mobile devices to implement \u201cneural networks\u201d modelled on the human brain.\n\nThe team from Massachusetts Institute of Technology (MIT) developed a new chip designed specifically to implement neural networks.\n\nIt is 10 times as efficient as a mobile GPU (Graphics Processing Unit) so it could enable mobile devices to run powerful AI algorithms locally rather than uploading data to the Internet for processing.\n\nThe GPU is a specialised circuit designed to accelerate the image output in a frame buffer intended for output to a display.\n\nModern smartphones are equipped with advanced embedded chipsets that can do many different tasks depending on their programming.\n\nGPUs are an essential part of those chipsets and as mobile games are pushing the boundaries of their capabilities, the GPU performance is becoming increasingly important.\n\nNeural nets were widely studied in the early days of artificial intelligence research, but by the 1970s, they had fallen out of favour. In the past decade, however, they have come back under the name \u201cdeep learning.\u201d\n\n\u201cDeep learning is useful for many applications such as object recognition, speech and face detection,\u201d said Vivienne Sze, assistant professor in MIT\u2019s department of electrical engineering and computer science, in a MIT statement. \u2014 IANS\n\nIt can enable mobile devices to run powerful Artificial Intelligence algorithms locally", 
+    "section": "national", 
+    "title": "MIT team builds energy-friendly chip", 
+    "subsection": "general", 
+    "date": "2016-02-09"
+}

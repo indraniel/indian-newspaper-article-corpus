@@ -1,0 +1,8 @@
+{
+    "author": [], 
+    "text": "Researchers at Disney have developed a light-weight remote-controlled robot with 3D printed parts that can climb up walls quickly .\n\nVertiGo, a robot created in collaboration between Disney Research and ETH Zurich, has four wheels and two tiltable propellers that provide thrust onto the wall. One pair of wheels is steerable, and each propeller has two degrees of freedom for adjusting the direction of thrust.\n\nBy transitioning from the ground to a wall and back again, VertiGo extends the ability of robots to travel through urban and indoor environments, researchers said. The use of propellers to provide thrust onto the wall ensures that the robot is able to traverse over irregular brick walls. A central carbon fibre baseplate minimised the weight of the robot, while 3D-printed parts along with carbon rods were used for more complex, three dimensional structures such as the wheel suspension. \u2014 PTI", 
+    "section": "national", 
+    "title": "Lightweight robot can scale walls", 
+    "subsection": "general", 
+    "date": "2016-01-05"
+}

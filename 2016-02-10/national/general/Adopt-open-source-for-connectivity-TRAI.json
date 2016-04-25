@@ -1,0 +1,10 @@
+{
+    "author": [
+        "National Bureau"
+    ], 
+    "text": "A day after it took a tough stance on discriminatory pricing for data services, effectively blocking Facebook\u2019s Free Basics from India, the telecom regulator on Tuesday hinted that technology-driven connectivity ventures being pursued by Google and Facebook would be acceptable only if they followed an open source framework.\n\nWhile Facebook is working on a venture that deploys drones in remote and rural areas to provide Internet connectivity, Google\u2019s Project Loon envisages the use of helium-filled balloons to provide data connectivity in remote regions. \u201cI don\u2019t like to comment on a specific product. But India has adopted an open source policy and open API [application program interface] policy. The whole objective of that is there should not be a situation of a vendor lock-in,\u201d Ram Sewak Sharma, chairman of TRAI, said in response to a query about Project Loon\u2019s prospects at the India Digital summit. \u201cThis is because any service cannot be held hostage to a technology,\u201d Mr. Sharma told the summit. Google hopes to launch the Loon project in India and wants to start testing for it soon, but the government has flagged some concerns such as possible interference with cellular network transmissions due to the frequency band Project Loon seeks to use.\n\nIn a visit to India in December 2015, Google CEO Sundar Pichai had said the company has \u2018tonnes of data\u2019 from its tests in Sri Lanka and Indonesia to demonstrate that Project Loon creates no such interference and will be sharing it with the government.\n\nGoogle is keen to work with telecom operators in the 700 Mhz-900 MHz spectrum band for Project Loon. As per Google, each balloon can provide connectivity to a ground area about 40 km in diameter using a wireless communications technology called 4G.", 
+    "section": "national", 
+    "title": "Adopt open source for connectivity: TRAI", 
+    "subsection": "general", 
+    "date": "2016-02-10"
+}

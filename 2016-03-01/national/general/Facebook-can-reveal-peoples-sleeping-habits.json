@@ -1,0 +1,8 @@
+{
+    "author": [], 
+    "text": "The social networking website Facebook can be used to track people\u2019s sleeping habits by building a database of when your friends were seen last online busy chatting or \u201cliking\u201d posts on Facebook, a media report said.\n\n\u201cMany people visit Facebook as the first thing in the morning and the last thing before going to bed. It is, therefore, possible to get a good impression of their sleeping habits,\u201d said San Francisco-based software engineer Soren Louv-Jansen in a Mail Online report. For the study, Louv-Jansen used \u201ctime stamps\u201d from Facebook\u2019s Messenger service to see when his friends were asleep. He was curious to see where the \u201clast seen\u201d data was coming from and after doing some research, he found a list of his Facebook friends\u2019 user IDs and last activity \u201ctime stamps\u201d.\n\nThis, he added, is embedded in the initial mark-up of Messenger.com and can be viewed by simply visiting the website and clicking \u201cView Source\u201d.\n\n\u201cBy creating a simple service that checks Facebook every 10 minutes, I\u2019m able to get an accurate picture of my friends\u2019 Facebook usage,\u201d said Louv-Jansen, who published the programme\u2019s source code onto GitHub.\n\nGitHub is used by many developers and hackers to put large amounts of information for developer communities to see and take advantage of, the report said. \u2014 IANS", 
+    "section": "national", 
+    "title": "\u2018Facebook can reveal people\u2019s sleeping habits\u2019", 
+    "subsection": "general", 
+    "date": "2016-03-01"
+}

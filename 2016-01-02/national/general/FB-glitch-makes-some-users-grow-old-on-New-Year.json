@@ -1,0 +1,8 @@
+{
+    "author": [], 
+    "text": "A bug left some Facebook users confused when the social networking site congratulated them on 46 years of friendship with other users.\n\nFacebook is not even 15 years old, and some users, who saw this message, are far younger than 46, The Verge reported on Friday.\n\nThe report said Facebook had not disclosed the culprit, but said it was aware of the issue.\n\n\u201cWe have identified this bug and the team is fixing it now so everyone can ring in 2016 feeling young again,\u201d a company spokesperson said.\n\nComputer experts speculate the problem stems from a quirk in Unix, an operating system used in big data centres where companies like Facebook store information.\n\nThe glitch starts the internal calendar on some computers at midnight, Greenwich Mean Time, Jan. 1, 1970. This is known as the epoch, and every second from then is known as epoch time.\n\nBut some gadgets mysteriously switch to December 31, 1969. \u2014 IANS", 
+    "section": "national", 
+    "title": "FB glitch makes some users grow old on New Year", 
+    "subsection": "general", 
+    "date": "2016-01-02"
+}

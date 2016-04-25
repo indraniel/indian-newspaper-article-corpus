@@ -1,0 +1,10 @@
+{
+    "author": [
+        "Sharad Vyas"
+    ], 
+    "text": "Police and security agencies are able to track and gather cell and internet records but the lack of a Location Based System (LBS) is preventing them from acting on vital leads.\n\nThe LBS identifies the location from where mobile phone calls are being made and was proposed to be part of the call data records (CDR) in the form of longitude and latitude, besides the co-ordinates of the cell sites.\n\nSince 2013, the GSM operators have been trying to get the clause on LBS removed from the amended licence norms of the Department of Telecommunication (DoT).\n\nNot having an LBS, the report states, has meant that the Central Monitoring System (CMS) rolled out by the DoT recently, promising to bring all law enforcement agencies on a common platform for intelligence gathering, remains stagnated with limited reach.\n\n\u201cAt present, each agency is using the Lawful Interception System (LIS) as per the availability of infrastructure with it. But all agencies are not able to get the full data as required from the ISPs and TSPs, their intelligence collection gets hampered,\u201d the report reads.\n\nThe report highlights that while it is necessary to bring TSPs and ISPs on a common platform for data support, they are not bringing out the uniqueness in the data provided to the cops. The cell global identity (CGI), as mandated by the International Telecom Union, Geneva, must be provided in a 15-digit format. However, many TSPs are providing only 5-10 digits. The TSPs are not providing longitude and latitude but just the cell ID in the CDR, making it difficult for the police to get the exact location, the report says. The report says the format for the Internet Protocol Data Record (IPDR) is in urgent need of a review. Moreover, furnishing time for the SDR/CDR is not being maintained by the TSPs as framed by the DoT.", 
+    "section": "national", 
+    "title": "Central Monitoring System stuck", 
+    "subsection": "general", 
+    "date": "2016-01-24"
+}
